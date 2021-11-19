@@ -1,5 +1,9 @@
 <template>
-  <div>App</div>
+  <div>
+    <keep-alive :include="['SearchNews','Layout']">
+      <router-view></router-view>
+    </keep-alive>
+  </div>
 </template>
 
 

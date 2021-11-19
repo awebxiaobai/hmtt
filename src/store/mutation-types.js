@@ -1,0 +1,6 @@
+export const SET_TOKEN='set_token'
+export const GET_USER_INFO='get_user_info'
+export const DELETE_INFO='delete_info'
+export const CHANGE_PROFILE='change_profile'
+export const CHANGE_PHOTO='change_photo'
+// export const GET_USER_CHANNEL='get_user_channel'
